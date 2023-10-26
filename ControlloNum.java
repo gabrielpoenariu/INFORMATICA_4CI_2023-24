@@ -12,7 +12,7 @@ public class ControlloNum {
         int numero;
 
         // input
-        System.out.print("Inserire numero: ");
+        System.out.print("Inserire numero intero: ");
         numero = Integer.parseInt(input.nextLine());
 
         // output

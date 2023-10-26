@@ -13,8 +13,10 @@ public class TriangoloAsterischi {
         String sequenza = "";
 
         // input
-        System.out.print("Inserire numero sequenze (> 0): ");
-        numSequenze = Integer.parseInt(input.nextLine());
+        do {
+            System.out.print("Inserire numero sequenze (1 - 100): ");
+            numSequenze = Integer.parseInt(input.nextLine());
+        } while (numSequenze <= 0 || numSequenze > 100);
 
         // sequenza
         for (int i = 0; i < numSequenze; i++) {
