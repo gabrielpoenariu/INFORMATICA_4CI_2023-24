@@ -1,5 +1,5 @@
 /**
- * Triangolo Pascal
+ * Programma Java che visualizza il triangolo di Pascal
  *
  * @author Poenariu Gabriel
  * @version 1.0

@@ -1,5 +1,5 @@
 /**
- * Rombo Alfabeto
+ * Programma Java che visualizza la struttura a rombo dei caratteri
  *
  * @author Poenariu Gabriel
  * @version 1.0

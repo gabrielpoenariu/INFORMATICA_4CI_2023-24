@@ -1,5 +1,6 @@
 /**
- * Controllo Numero
+ * Programma Java che legge un numero intero e
+ * verifica se è negativo, zero o positivo
  *
  * @author Poenariu Gabriel
  * @version 1.0

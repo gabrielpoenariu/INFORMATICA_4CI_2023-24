@@ -1,5 +1,5 @@
 /**
- * Numero Giorni Mese
+ * Programma Java che visualizza il numero di giorni in un mese
  *
  * @author Poenariu Gabriel
  * @version 1.0

@@ -1,5 +1,5 @@
 /**
- * Triangolo Asterischi
+ * Programma Java che, dato un numero in input, visualizza un triangolo di *
  *
  * @author Poenariu Gabriel
  * @version 1.0

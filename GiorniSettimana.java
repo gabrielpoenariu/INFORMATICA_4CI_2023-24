@@ -1,5 +1,6 @@
 /**
- * Giorni Settimana
+ * Programma Java che, preso in input un numero intero compreso tra 1 e 7,
+ * visualizza il nome del giorno della settimana corrispondente
  *
  * @author Poenariu Gabriel
  * @version 1.0
