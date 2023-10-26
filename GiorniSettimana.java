@@ -17,7 +17,7 @@ public class GiorniSettimana {
         do {
             System.out.print("Inserire giorno della settimana (1 - 7): ");
             giorno = Integer.parseInt(input.nextLine());
-        } while (giorno < 0 || giorno > 7);
+        } while (giorno <= 0 || giorno > 7);
 
         // output
         System.out.println(settimana[giorno - 1]);
